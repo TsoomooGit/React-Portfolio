@@ -1,0 +1,96 @@
+body {
+  font-size: 28px;
+  font-family: sans-serif !important;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif !important;
+  height: 100%;
+  background-image: linear-gradient(rgba(190, 254, 226, 1), rgba(185, 254, 224, 1));
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+nav {
+  height: 150px;
+  padding-left: 50px !important;
+  margin-bottom: 50px;
+}
+
+nav a {
+  color: black;
+}
+
+.container {
+  padding: 70px 140px 100px 140px;
+  margin-bottom: 150px;
+}
+
+.resume-container {
+  margin-top: 0px !important;
+  padding: 0 100px 50px 100px;
+}
+
+.home-page #portfolio-img {
+  margin: 10px 0px 50px 0px;
+}
+
+#portfolio-img {
+  border: 2px solid gray;
+  border-radius: 50%;
+  height: 170px !important;
+  width: 170px;
+}
+p {
+  font-size: 35px;
+  text-align: center;
+}
+
+i {
+  margin-right: 10px;
+}
+img {
+  width: 100%;
+}
+
+.fa-check-circle {
+  color: green;
+}
+
+a {
+  display: block !important;
+}
+
+a {
+  display: block !important;
+}
+.home-page {
+  border: 5px solid #ececec !important;
+}
+
+.project-page,
+.home-page {
+  font-size: 23px;
+  background-color: #ffffffbf;
+}
+.desc {
+  white-space: pre;
+}
+#project-name {
+  font-weight: bold;
+  font-size: 25px;
+}
+.row {
+  margin-bottom: 30px;
+}
+
+.location {
+  font-size: 18px;
+  color: gray;
+}
+
+.page-number {
+  margin-right: 4%;
+  color: white;
+}
+
+.contacts{
+  margin-left: 31%;
+}
