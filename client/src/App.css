@@ -1,7 +1,7 @@
 body {
-  font-size: 28px;
-  font-family: sans-serif !important;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif !important;
+  font-size: 20px;
+  /* font-family: sans-serif !important; */
+  /* font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif !important; */
   height: 100%;
   background-image: linear-gradient(rgba(190, 254, 226, 1), rgba(185, 254, 224, 1));
   background-size: cover;
@@ -9,8 +9,8 @@ body {
 }
 
 nav {
-  height: 150px;
-  padding-left: 50px !important;
+  margin-top: -45px;
+  padding-left: 35% !important;
   margin-bottom: 50px;
 }
 
@@ -63,6 +63,7 @@ a {
 }
 .home-page {
   border: 5px solid #ececec !important;
+  margin-top:90px;
 }
 
 .project-page,
@@ -92,5 +93,10 @@ a {
 }
 
 .contacts{
-  margin-left: 31%;
+  margin-left: 35%;
+}
+
+.back_btn{
+background-color: #bcfee1 !important;
+display: inline;
 }
